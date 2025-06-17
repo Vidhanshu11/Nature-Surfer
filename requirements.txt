@@ -1,0 +1,12 @@
+PIL
+IPython
+sklearn
+tensorflow 
+tensorflow_hub
+functools
+pandas
+numpy 
+random
+os
+time
+datetime
